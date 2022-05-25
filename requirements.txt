@@ -26,7 +26,7 @@ mysqlclient==1.4.4
 oauthlib==3.1.0
 Pillow==6.2.0
 pycryptodome==3.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 python3-openid==3.1.0
 pytz==2019.2
 raven==6.10.0
